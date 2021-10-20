@@ -41,9 +41,7 @@ python train.py --config_file configs/GeoKR_resnet50_cfg.py
 
 
 # Citation
-
 If you find the code useful, please cite:
-
 ``````
 @article{li2021geographical,
   title={Geographical Knowledge-Driven Representation Learning for Remote Sensing Images},
