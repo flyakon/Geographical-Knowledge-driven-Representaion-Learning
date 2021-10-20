@@ -31,7 +31,7 @@ See also in [Requirements.txt](requirements.txt).
 
 3. Modify the configs file [GeoKR_resnet50_cfg.py](configs/GeoKR_resnet50_cfg.py) to configure the training parameters.
 
-   ```shell
+   ```
 python train.py --config_file configs/GeoKR_resnet50_cfg.py
    ```
    
