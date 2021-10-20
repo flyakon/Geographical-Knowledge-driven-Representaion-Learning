@@ -31,9 +31,9 @@ See also in [Requirements.txt](requirements.txt).
 
 3. Modify the configs file [GeoKR_resnet50_cfg.py](configs/GeoKR_resnet50_cfg.py) to configure the training parameters.
 
-   ``````shell
+   ```shell
 python train.py --config_file configs/GeoKR_resnet50_cfg.py
-   ``````
+   ```
    
 
 **We will give soon: 1) the meaning of parameters in configuration file; 2) the details description for preparing dataset; 3) pre-training model weights file**
@@ -42,7 +42,8 @@ python train.py --config_file configs/GeoKR_resnet50_cfg.py
 
 # Citation
 If you find the code useful, please cite:
-``````
+
+```
 @article{li2021geographical,
   title={Geographical Knowledge-Driven Representation Learning for Remote Sensing Images},
   author={Li, Wenyuan and Chen, Keyan and Chen, Hao and Shi, Zhenwei},
@@ -50,5 +51,5 @@ If you find the code useful, please cite:
   year={2021},
   publisher={IEEE}
 }
-``````
+```
 
