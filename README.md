@@ -45,9 +45,11 @@ If you find the code useful, please cite:
 
 ```
 @article{li2021geographical,
-  title={Geographical Knowledge-Driven Representation Learning for Remote Sensing Images},
+  title={Geographical knowledge-driven representation learning for remote sensing images},
   author={Li, Wenyuan and Chen, Keyan and Chen, Hao and Shi, Zhenwei},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
   year={2021},
   publisher={IEEE}
 }
