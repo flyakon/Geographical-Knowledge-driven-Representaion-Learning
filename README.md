@@ -36,7 +36,6 @@ See also in [Requirements.txt](requirements.txt).
    ```
    
 
-**We will give soon: 1) the meaning of parameters in configuration file; 2) the details description for preparing dataset; 3) pre-training model weights file**
 
 
 
